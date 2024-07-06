@@ -11,3 +11,7 @@
 [Medical Equipment](https://github.com/sourceduty/Medical_Equipment)
 <br>
 [Product Design](https://github.com/sourceduty/Product_Design)
+<br>
+[Laptop Design](https://github.com/sourceduty/Laptop_Design)
+<br>
+[Military Product](https://github.com/sourceduty/Military_Product)
