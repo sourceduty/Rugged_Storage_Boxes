@@ -20,9 +20,6 @@ Conversely, multi-task storage boxes, which house components and tools for vario
 
 The choice between single-task and multi-task storage solutions for electronic projects should be based on the specific needs of the environment and the nature of the tasks. Single-task boxes enhance organizational efficiency and protect components more effectively, making them suitable for settings that require meticulous organization and frequent access to different sets of tools. Multi-task boxes, offering greater flexibility and cost savings, are better suited for situations where project demands are variable and storage space is at a premium. Both approaches have their merits, and selecting the right one depends on balancing the needs for organization, protection, and versatility.
 
-#
-
-> Alex: *"**Nanuk** makes strong and reliable rugged cases that are great for organizing small electronics and valuables. Fitting a monitor, computer and other parts into these cases for a cyberdeck or retro gaming project is very difficult. Dedicating a case to one specific electronic task is a smarter choice. 3D printing one or more panels to sort the inside of these cases is the best option for organization and longevity. I've used several Nanuk 904 cases because they are the maximum size that can fit on my LulzBot 747 Sidekick 3D printer."*
 
 #
 ![Drives](https://github.com/sourceduty/Nanuk_904/assets/123030236/c835d2dc-1bfd-4f20-8a8c-341bf2aa1e0b)
@@ -30,6 +27,9 @@ The choice between single-task and multi-task storage solutions for electronic p
 ![Nanuk 904](https://github.com/sourceduty/Nanuk_904/assets/123030236/885fb017-16d8-422b-8f4e-af9ff8403b9e)
 #
 
+> Alex: *"**Nanuk** makes strong and reliable rugged cases that are great for organizing small electronics and valuables. Fitting a monitor, computer and other parts into these cases for a cyberdeck or retro gaming project is very difficult. Dedicating a case to one specific electronic task is a smarter choice. 3D printing one or more panels to sort the inside of these cases is the best option for organization and longevity. I've used several Nanuk 904 cases because they are the maximum size that can fit on my LulzBot 747 Sidekick 3D printer."*
+
+#
 ### Related Links
 
 [Medical Equipment](https://github.com/sourceduty/Medical_Equipment)
