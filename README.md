@@ -2,6 +2,8 @@
 
 > Strong and reliable rugged cases that are great for organizing small electronics and valuables.
 
+#
+
 Rugged cases, like those from Nanuk, Pelican, and SKB, are expertly designed to provide unmatched protection for sensitive electronics. These cases can be particularly useful for tech enthusiasts and professionals looking to securely store and transport their devices. Sourceduty's design for the Nanuk 904 box demonstrates efficient space utilization and protection strategies, emphasizing technical details like cushioning and compartmentalization to protect sensitive equipment from physical impacts and environmental hazards. This makes the repository a valuable resource for those looking to design or modify rugged cases for specific storage needs.
 
 #
