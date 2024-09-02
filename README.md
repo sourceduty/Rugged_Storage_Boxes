@@ -11,7 +11,7 @@ Rugged cases, like those from Nanuk, Pelican, and SKB, are expertly designed to 
 
 ![USB Hub Drives](https://github.com/user-attachments/assets/1b0ccc54-1ae8-420b-863d-e3121153db01)
 
-This 3D printable rugged storage box insert was designed to be used with external HDDs, external SSDs. This storage box insert has the potential to store 16 x 2.5-inch HDDs or SSDs. In the future, with more data storage innovations, this design can also be used to store 30 or more USB thumb drives and 2 USB hubs. This configurations is a really fast, customizable and easy to use digital file storage method.
+This 3D printable rugged storage box insert was designed to be used with external/internal HDDs and external/internal SSDs. This storage box insert has the potential to store 16 x 2.5-inch HDDs or SSDs. In the future, with more data storage innovations, this design can also be used to store 30 or more USB thumb drives and 2 USB hubs. This configurations is a really fast, customizable and easy to use digital file storage method.
 
 #
 ### Single and Multi-task Boxes
