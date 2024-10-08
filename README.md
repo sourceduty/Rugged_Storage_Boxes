@@ -1,4 +1,4 @@
-![Nanuk 904s](https://github.com/sourceduty/Nanuk_904/assets/123030236/395ecdef-a0c0-4f76-b29e-ed2fd21b4665)
+![Green](https://github.com/user-attachments/assets/a8d93a9c-62bf-485f-881a-e7067ca81763)
 
 > Strong and reliable rugged cases that are great for organizing small electronics and valuables.
 
@@ -41,3 +41,6 @@ The choice between single-task and multi-task storage solutions for electronic p
 [Laptop Design](https://github.com/sourceduty/Laptop_Design)
 <br>
 [Military Product](https://github.com/sourceduty/Military_Product)
+
+***
+🛈 This is free and open-source; anyone can redistribute it and/or modify it.
