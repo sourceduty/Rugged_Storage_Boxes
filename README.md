@@ -29,6 +29,8 @@ Sourceduty's suggested kits offer a well-organized approach to essential tools a
 #
 ### Single and Multi-task Boxes
 
+![Storage](https://github.com/user-attachments/assets/eb5b8c98-b7bd-40df-9068-ff72362f69c0)
+
 Single-task storage solutions, where one rugged storage box is designated for a specific electronic project or device, offer significant advantages in organization and efficiency. By allocating a dedicated space for each set of components and tools, users can streamline their workflow, ensuring that everything needed for a particular task is readily accessible. This approach minimizes the time spent searching for items and setting up, which is crucial in environments where precision and speed are paramount. Additionally, such organization aids in protecting sensitive electronic components from being misplaced or damaged.
 
 Conversely, multi-task storage boxes, which house components and tools for various projects, provide flexibility and cost-effectiveness. These boxes allow users to adapt to different tasks without the need for multiple cases, making them ideal for dynamic settings where project requirements can shift frequently. The reduction in the number of cases also saves on costs and space, which can be particularly beneficial in limited workspaces or when transporting equipment to various sites.
