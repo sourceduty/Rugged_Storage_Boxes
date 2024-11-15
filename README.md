@@ -1,4 +1,4 @@
-![Green](https://github.com/user-attachments/assets/a8d93a9c-62bf-485f-881a-e7067ca81763)
+![Drives](https://github.com/sourceduty/Nanuk_904/assets/123030236/c835d2dc-1bfd-4f20-8a8c-341bf2aa1e0b)
 
 > Strong and reliable rugged cases that are great for organizing small electronics and valuables.
 
@@ -8,6 +8,8 @@ Rugged cases, like those from Nanuk, Pelican, and SKB, are expertly designed to 
 
 #
 ### Box Organization Configurations
+
+![Green](https://github.com/user-attachments/assets/a8d93a9c-62bf-485f-881a-e7067ca81763)
 
 Rugged storage box organization for electronics is essential for protecting sensitive devices and ensuring accessibility in challenging environments. These configurations typically include modular compartments, customizable foam inserts, and shock-absorbing materials to securely house components like cables, circuit boards, and tools. Adjustable dividers allow flexibility to accommodate various sizes and shapes of electronics, while sealed lids provide water, dust, and impact resistance. Labeling systems and color-coded sections enhance organization, enabling quick identification of items during repairs or setups. Some designs incorporate anti-static materials to prevent damage to delicate components, making rugged storage boxes indispensable for field technicians and hobbyists alike.
 
@@ -34,10 +36,7 @@ The choice between single-task and multi-task storage solutions for electronic p
 
 
 #
-![Drives](https://github.com/sourceduty/Nanuk_904/assets/123030236/c835d2dc-1bfd-4f20-8a8c-341bf2aa1e0b)
-#
 ![RuggedPi-3](https://github.com/user-attachments/assets/6fc00d45-c956-4fed-9a5e-82ed82672684)
-#
 
 > Alex: *"**Nanuk** makes strong and reliable rugged cases that are great for organizing small electronics and valuables. Fitting a monitor, computer and other parts into these cases for a cyberdeck or retro gaming project is very difficult. Dedicating a case to one specific electronic task is a smarter choice. 3D printing one or more panels to sort the inside of these cases is the best option for organization and longevity. I've used several Nanuk 904 cases because they are the maximum size that can fit on my LulzBot 747 Sidekick 3D printer."*
 
