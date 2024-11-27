@@ -26,8 +26,6 @@ Rugged storage box organization for electronics is essential for protecting sens
 | Sci-Fi Bomb               | Fictional electronic bomb device and tactile controls for cosplay, kids and sets.                              |
 | THC Kit                   | Cannabis products, raw buds, oil, cookies and accessories for smoking weed.             |
 
-Sourceduty's suggested kits offer a well-organized approach to essential tools and materials for various tasks. The Tire Repair Kit features custom foam cutouts for tire plugs, sealant, and tools, with a transparent lid for easy access. The First Aid Kit is designed with tiered trays and labeled compartments, ensuring that bandages, medications, and instruments are neatly organized and easily accessible in emergencies. The Chemistry Sample Kit provides shockproof compartments with sealed containers to protect valuable samples, along with dedicated spaces for tools. The Machine Diagnostics Kit includes modular padded sections for diagnostic devices, probes, cables, and manuals, keeping everything secure and well-arranged for efficient troubleshooting and maintenance. Additionally, the Fire Starting and Flare Kit is designed with compartments for fire starters, flares, matches, and fuel, ensuring that these critical emergency tools are organized and easily accessible in case of a fire or survival situation. These configurations are ideal for both professionals and hobbyists who need quick and reliable access to their tools and supplies, ensuring safety and efficiency in any environment.
-
 #
 ### Cyberdeck Projects
 
