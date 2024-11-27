@@ -52,6 +52,11 @@ The choice between single-task and multi-task storage solutions for electronic p
 A 'murse', commonly referred to as a man purse, is a type of bag used by men for carrying personal items similar to what might be found in a traditional purse. However, unlike the typical handbag or shoulder bag, a murse is often designed with a more masculine aesthetic and is sometimes constructed from rugged, durable materials. Utilizing a small rugged storage box as a murse is an innovative twist on this trend. These boxes are typically made from materials like hard plastics or metals, making them extremely durable and resistant to wear and tear. This can be particularly appealing for those who need a compact and sturdy solution for everyday carry, especially in environments where typical bags might not withstand the conditions. This type of murse can store essentials such as wallets, keys, mobile devices, and even small tools, making it a practical choice for men who appreciate utility and a rugged aesthetic in their personal accessories.
 
 #
+### Simple Lights
+
+Adding built-in LED lighting to rugged boxes significantly enhances visibility, making it easier to locate and manage contents in low-light conditions. This feature is particularly beneficial for users in fields like construction, emergency services, or outdoor activities, where finding tools and equipment quickly can be crucial. Integrating LEDs ensures that the interior of the box is well-lit, reducing the risk of accidents caused by poor visibility. Moreover, LED lights are durable, energy-efficient, and can withstand harsh environments, aligning perfectly with the robust nature of rugged boxes designed for demanding applications.
+
+#
 ![RuggedPi-3](https://github.com/user-attachments/assets/6fc00d45-c956-4fed-9a5e-82ed82672684)
 
 > Alex: *"**Nanuk** makes strong and reliable rugged cases that are great for organizing small electronics and valuables. Fitting a monitor, computer and other parts into these cases for a cyberdeck or retro gaming project is very difficult. Dedicating a case to one specific electronic task is a smarter choice. 3D printing one or more panels to sort the inside of these cases is the best option for organization and longevity. I've used several Nanuk 904 cases because they are the maximum size that can fit on my LulzBot 747 Sidekick 3D printer."*
