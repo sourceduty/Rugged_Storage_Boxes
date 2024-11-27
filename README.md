@@ -27,6 +27,15 @@ Rugged storage box organization for electronics is essential for protecting sens
 Sourceduty's suggested kits offer a well-organized approach to essential tools and materials for various tasks. The Tire Repair Kit features custom foam cutouts for tire plugs, sealant, and tools, with a transparent lid for easy access. The First Aid Kit is designed with tiered trays and labeled compartments, ensuring that bandages, medications, and instruments are neatly organized and easily accessible in emergencies. The Chemistry Sample Kit provides shockproof compartments with sealed containers to protect valuable samples, along with dedicated spaces for tools. The Machine Diagnostics Kit includes modular padded sections for diagnostic devices, probes, cables, and manuals, keeping everything secure and well-arranged for efficient troubleshooting and maintenance. Additionally, the Fire Starting and Flare Kit is designed with compartments for fire starters, flares, matches, and fuel, ensuring that these critical emergency tools are organized and easily accessible in case of a fire or survival situation. These configurations are ideal for both professionals and hobbyists who need quick and reliable access to their tools and supplies, ensuring safety and efficiency in any environment.
 
 #
+### Cyberdeck Projects
+
+![Cyberdeck](https://github.com/user-attachments/assets/a01049b0-8cb3-4d0c-afb4-0db0a6177500)
+
+Rugged offline AI cyberdeck computers are often marketed as robust, portable solutions designed for extreme environments or off-grid use. They typically feature durable, weather-resistant casings, extended battery life, and customized hardware to support AI applications without relying on cloud services. These devices appeal to users who prioritize privacy and data security, as they operate entirely offline, reducing exposure to potential network-based threats. They also cater to hobbyists and tech enthusiasts interested in DIY computing, offering modularity and flexibility in hardware upgrades. Despite their niche appeal, the idea is that these cyberdecks can process complex AI tasks in places where traditional computing might not survive.
+
+However, these rugged cyberdecks can be seen as a waste of money when compared to the practicality of a used laptop, which often delivers more power and versatility at a fraction of the cost. A second-hand laptop with sufficient specs can run most AI applications and models efficiently, offering better performance, a larger screen, and a full keyboard for productivity. Additionally, laptops are more accessible, easily repairable, and compatible with a wide range of peripherals. While rugged cyberdecks boast resilience and customizability, these benefits rarely justify their premium price, especially when a used laptop provides comparable, if not superior, computing capabilities without sacrificing convenience or affordability.
+
+#
 ### Single and Multitask Boxes
 
 ![Storage](https://github.com/user-attachments/assets/eb5b8c98-b7bd-40df-9068-ff72362f69c0)
