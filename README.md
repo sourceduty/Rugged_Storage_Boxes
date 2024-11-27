@@ -25,6 +25,7 @@ Rugged storage box organization for electronics is essential for protecting sens
 | Fire Starting and Flare Kit| Compartments for fire starters, flares, matches, and fuel; organized for quick access in emergencies. |
 | Sci-Fi Bomb               | Fictional electronic bomb device and tactile controls for cosplay, kids and sets.                              |
 | THC Kit                   | Cannabis products, raw buds, oil, cookies and accessories for smoking weed.             |
+| DJ Music Mixer            | Portable DJ music, music mixing or sound control panel or device.                              |
 
 #
 ### Cyberdeck Projects
