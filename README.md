@@ -26,6 +26,7 @@ Rugged storage box organization for electronics is essential for protecting sens
 | Sci-Fi Bomb               | Fictional electronic bomb device and tactile controls for cosplay, kids and sets.                              |
 | THC Kit                   | Cannabis products, raw buds, oil, cookies and accessories for smoking weed.             |
 | DJ Music Mixer            | Portable DJ music, music mixing, sound control panel or device.                              |
+| Media Box                 | Digital media storage and wireless connectivity for streaming to other devices.         |
 
 #
 ### Cyberdeck Projects
